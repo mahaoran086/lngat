@@ -1,4 +1,4 @@
-from dataset import get_planetoid_dataset
+from datasets import get_planetoid_dataset
 
 
 def print_dataset(dataset):
