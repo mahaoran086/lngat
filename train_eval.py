@@ -21,7 +21,7 @@ def index_to_mask(index, size):
 
 def random_planetoid_splits(data, num_classes):
     # Set new random planetoid splits:
-    # * 50 * num_classes labels for training
+    # * 20 * num_classes labels for training
     # * 500 labels for validation
     # * 1000 labels for testing
 
